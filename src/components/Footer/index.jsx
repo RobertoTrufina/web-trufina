@@ -25,7 +25,6 @@ export default function Footer() {
 
                 <p>© Copyright 2023. Todos os direitos reservados. Trufina Chocollates Eireli CNPJ 23.129.040/0001-33
                     Desenvolvedor Roberto Pinto
-
                 </p>
 
             </footer>
